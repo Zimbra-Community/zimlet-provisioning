@@ -47,11 +47,4 @@ The call needs to contains the secret, the property you are changing, the value 
 If you call the API before the user logs on for the first time, that user will see/use the values set via the API immediate. If you update existing users, it takes a while (Zimbra cache) before the user sees/uses the new values. You can restart mailbox to make the change immediate or try an find our how Zimbra cache works (good luck with that).
 
 
-### Donations
-
-If you find it useful and want to support continued development, you can make donations via:
-- PayPal: info@barrydegraaff.tk
-- Bank transfer: IBAN NL55ABNA0623226413 ; BIC ABNANL2A
-
-
 
